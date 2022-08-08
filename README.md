@@ -4,17 +4,16 @@ Projects Solution for IBM Data Analyst Professional Certificate on Coursera.
 Course Link: IBM Data Analyst Professional Certificate
 
 The courses enlisted as follows:
+- **C1-Introduction to Data Analytics**
+- **C2-Excel Basics for Data Analysis**
+- **C3-Data Visualization and Dashboard with Excel and Cognos**
+- **C4-Python for Data Science, AI & Development**
+- **C5-Python Project for Data Science**
+- **C6-Databases and SQL for Data Science with Python**
+- **C7-Data Analysis with Python**
+- **C8-Data Visualization with Python**
+- **C9-IBM Data Analyst Capstone Project**
 
- C1-Introduction to Data Analytics
- C2-Excel Basics for Data Analysis
- C3-Data Visualization and Dashboard with Excel and Cognos
- C4-Python for Data Science, AI & Development
- C5-Python Project for Data Science
- C6-Databases and SQL for Data Science with Python
- C7-Data Analysis with Python
- C8-Data Visualization with Python
- C9-IBM Data Analyst Capstone Project
- 
 About this Course
 "A picture is worth a thousand words". We are all familiar with this expression. It especially applies when trying to explain the insight obtained from the analysis of increasingly large datasets. Data visualization plays an essential role in the representation of both small and large-scale data.
 
