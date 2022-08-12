@@ -13,4 +13,3 @@ You will begin by scraping internet web sites and accessing APIs to collect data
 
 
 
-[![Linkedin](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/rauljrz/)
